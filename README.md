@@ -1,1 +1,1 @@
-# qbio_final_analysis
+# Spring 2021 QBIO public data analysis group final project
